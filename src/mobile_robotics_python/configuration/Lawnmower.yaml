@@ -32,7 +32,7 @@ sensors:
 
 control:
   mission:
-    name: square_1m.yaml
+    name: lawnmower_1.yaml
     parameters:
       waypoint_acceptance_radius: 0.1
       loop_waypoints: false
